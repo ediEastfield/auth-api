@@ -1,0 +1,7 @@
+{
+    "host": "localhost",
+    "user": "developer",
+    "password": "eastfield",
+    "port": 5432,
+    "database": "authapi_test"
+}
